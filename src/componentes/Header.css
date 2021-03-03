@@ -1,0 +1,25 @@
+.Caja_Busqueda{
+    background-color: #FFE600 ;
+}
+
+.Caja_Busqueda .jumbotron{
+    background-color: #FFE600 ;
+}
+
+.imgLogo{
+    padding-right: 100px;
+}
+
+input::placeholder {
+    color: #eeeeee;
+    font-size: 18;
+  }
+
+.Caja_Busqueda .Button{
+    color: rgb(78, 0, 202);
+    border-color: rgb(38, 8, 173);
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+
+}
